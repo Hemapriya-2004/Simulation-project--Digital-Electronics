@@ -18,9 +18,15 @@ The conversion from binary to Gray code can be achieved using a recursive algori
 
 # LOGIC DIAGRAM
 
+![output](https://github.com/Hemapriya-2004/Simulation-project--Digital-Electronics/blob/main/j1.png)
+
 # NETLIST DIAGRAM
 
+![output](https://github.com/Hemapriya-2004/Simulation-project--Digital-Electronics/blob/main/j2.png)
+
 # TIMING DIAGRAM
+
+![output](https://github.com/Hemapriya-2004/Simulation-project--Digital-Electronics/blob/main/j3.png)
 
 # PROGRAM
 ```
