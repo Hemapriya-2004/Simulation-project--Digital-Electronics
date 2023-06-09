@@ -38,3 +38,4 @@ module BinaryToGray (
 endmodule
 ```
 # REFERENCE
+https://github.com/Hemapriya-2004/Simulation-project--Digital-Electronics
